@@ -1,0 +1,26 @@
+Various links to articles I've been reading up regarding the potential security vulnerability:
+
+	Known vulnerability found
+	CVE-2018-3728
+	Moderate severity
+	hoek node module before 5.0.3 or 4.2.1 suffers from a Modification of Assumed-Immutable Data (MAID) vulnerability via...
+
+	package-lock.json update suggested:
+	hoek ~> 4.2.1
+	Always verify the validity and compatibility of suggestions with your codebase.
+
+https://www.npmjs.com/package/boom
+https://www.google.co.uk/search?newwindow=1&ei=8D7rWrDTJYWugQah0pD4Cg&q=package-lock.json+security+erroros&oq=package-lock.json+security+erroros&gs_l=psy-ab.3...576075.579649.0.580176.17.16.0.0.0.0.236.1184.8j3j1.12.0....0...1.1.64.psy-ab..5.11.1119...0j33i21k1j33i160k1.0.HdXZIsuGISE
+https://stackoverflow.com/questions/45287398/is-there-a-way-to-confirm-a-package-lock-json-actually-resolves-all-dependencies
+https://stackoverflow.com/questions/49360433/npm-install-fails-when-package-lock-json-is-present
+https://stackoverflow.com/questions/49582891/proper-way-to-fix-potential-security-vulnerability-in-a-dependency-defined-in-pa
+https://www.google.co.uk/search?q=Regeneration+of+package-lock.json&oq=Regeneration+of+package-lock.json&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+https://stackoverflow.com/questions/46653833/is-there-a-way-to-force-npm-to-generate-package-lock-json
+https://www.google.co.uk/search?q=delete+the+package-lock.json+file+and+regenerate+it.&oq=delete+the+package-lock.json+file+and+regenerate+it.&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+https://stackoverflow.com/questions/45022048/why-does-npm-install-rewrite-package-lock-json
+https://github.com/npm/npm/issues/17979
+https://medium.com/@Quigley_Ja/everything-you-wanted-to-know-about-package-lock-json-b81911aa8ab8
+https://www.google.co.uk/search?q=what+does+package-lock.json+do&oq=what+does+package-lock.json+do&aqs=chrome..69i57.8117j1j7&sourceid=chrome&ie=UTF-8
+https://stackoverflow.com/questions/44206782/do-i-commit-the-package-lock-json-file-created-by-npm-5
+https://docs.npmjs.com/files/package-lock.json
+https://medium.com/@Quigley_Ja/everything-you-wanted-to-know-about-package-lock-json-b81911aa8ab8
